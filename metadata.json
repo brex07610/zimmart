@@ -1,0 +1,6 @@
+{
+  "name": "Zimbabwe Community Marketplace",
+  "description": "An offline-first, highly efficient community marketplace platform designed for Zimbabwe, featuring Shona language support, local payment methods like EcoCash and ZIPIT, offline sync simulation, and a seller dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
